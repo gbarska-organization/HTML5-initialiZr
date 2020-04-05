@@ -3,4 +3,3 @@ simple boilerplate website
 
 http://www.initializr.com/
 
-problematic changes from Github
